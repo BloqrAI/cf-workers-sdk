@@ -57,7 +57,7 @@
 		"esbuild": "catalog:default",
 		"miniflare": "workspace:*",
 		"wrangler": "workspace:*",
-		"zod": "3.25.76"
+		"zod": "4.6.6"
 	},
 	"devDependencies": {
 		"@cloudflare/mock-npm-registry": "workspace:*",
@@ -73,7 +73,7 @@
 		"@vitest/snapshot": "catalog:default",
 		"birpc": "0.2.14",
 		"capnp-es": "catalog:default",
-		"devalue": "^5.6.3",
+		"devalue": "^5.9.3",
 		"get-port": "^7.1.0",
 		"jscodeshift": "^17.3.0",
 		"semver": "^7.7.1",
